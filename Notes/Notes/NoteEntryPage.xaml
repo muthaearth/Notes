@@ -14,7 +14,7 @@
                ApplyToDerivedTypes="True"
                CanCascade="True">
             <Setter Property="FontSize" Value="Small" />
-            <Setter Property="BackgroundColor" Value="Green" />
+            <Setter Property="BackgroundColor" Value="#1976D2" />
             <Setter Property="TextColor" Value="Linen" />
             <Setter Property="CornerRadius" Value="5" />
         </Style>

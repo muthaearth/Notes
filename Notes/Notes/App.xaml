@@ -8,7 +8,7 @@
 
         <!-- Colors -->
         <Color x:Key="AppBackgroundColor">#FFFFFFF0</Color>
-        <Color x:Key="NavigationBarColor">#008000</Color>
+        <Color x:Key="NavigationBarColor">#1976D2</Color>
         <Color x:Key="NavigationBarTextColor">#FFFFFFF0</Color>
 
         <!-- Implicit styles -->
